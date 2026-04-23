@@ -52,7 +52,7 @@ This system simulates a real-world academic environment with role-based access c
 ---
 
 ### 📈 Dashboard
-- Overview of system data  
+- Overview of system data 
 - Track attendance and user activity  
 
 ---
@@ -66,11 +66,6 @@ This system simulates a real-world academic environment with role-based access c
 
 ---
 
-## 🎥 Demo
-
-🔗 Demo Video (TikTok):  
-https://vt.tiktok.com/ZSHAvtHjJ/
-
-> Note: Video quality may be reduced due to TikTok compression(Video quality not good).
+## 🌐 Demo Live Demo[View POS System Demo](https://final-portfolio-rho-ten.vercel.app)
 
 ---
