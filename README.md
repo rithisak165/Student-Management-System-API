@@ -3,7 +3,19 @@
 ## 🚀 Overview
 The Student Management System is a fullstack web application designed to manage students, teachers, classes, and attendance efficiently.
 
-This system simulates a real-world academic environment with role-based access control and structured workflow for managing class sessions and attendance tracking.
+This system is built to simulate a real-world academic environment, featuring role-based access control and structured workflows for managing class sessions and attendance tracking.
+
+---
+
+## 🌐 Live Demo
+
+🚀 [View Student Management System](https://final-portfolio-rho-ten.vercel.app/portfolio)
+
+---
+
+## 🎥 Demo Video
+
+📺 The full demo video is available inside the live demo above.
 
 ---
 
@@ -52,7 +64,7 @@ This system simulates a real-world academic environment with role-based access c
 ---
 
 ### 📈 Dashboard
-- Overview of system data 
+- Overview of system data  
 - Track attendance and user activity  
 
 ---
@@ -66,6 +78,8 @@ This system simulates a real-world academic environment with role-based access c
 
 ---
 
-## 🌐 Demo Live Demo[View POS System Demo](https://final-portfolio-rho-ten.vercel.app)
+## 💡 Why I Built This
 
----
+This project was built to simulate real academic workflows, including attendance tracking, class management, and role-based system control.
+
+It demonstrates my ability to design and develop structured fullstack systems with real-world logic, user roles, and scalable architecture.
